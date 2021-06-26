@@ -1,0 +1,20 @@
+.Header{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+}
+
+p,h2{    
+    text-align: center;
+}
+
+.Projects{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-start;
+}
